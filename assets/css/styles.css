@@ -22,9 +22,18 @@ body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-section {
+nav {
   text-align: right;
   font-size: 1.25em;
+}
+
+.container_alpha {
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  background-color: #ffffff;
+  border-bottom: 2px solid #cccccc;
 }
 
 .container2 {
